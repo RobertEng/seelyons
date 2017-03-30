@@ -1,6 +1,6 @@
 ###############################################################################
-# CS 155 HW 4 Problem 2 Sample Code
-# Suraj Nair
+# Seelyons Project
+# K Ye, Andoru Kang, Reng
 
 # This sample code is meant as a guide on how to use keras
 # and how to use the relevant model layers. This not a guide on
